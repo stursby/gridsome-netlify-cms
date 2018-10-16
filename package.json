@@ -1,0 +1,13 @@
+{
+  "name": "gridsome-netlify-cms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "./node_modules/.bin/gridsome develop",
+    "build": "./node_modules/.bin/gridsome build"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gridsome": "^0.2.0"
+  }
+}
